@@ -261,28 +261,6 @@ public class Checker {
 			if(!exists()) {
 				return "Group does not exist.";
 			}
-			/*HashSet<Group> a = getShouldBeMemberOf();
-			HashSet<Group> b = getMemberOf();
-			if(a.size() != b.size()) {
-				if(a.size() > b.size()) {
-					a.removeAll(b);
-					StringBuilder builder = new StringBuilder();
-					builder.append("FAIL: This group ");
-					builder.append(getDn());
-					builder.append(" is missing in OTDS as Member of ");
-					builder.append(":");
-					for(Group group : a) {
-						builder.append(group.getDn());
-						builder.append("|");
-					}
-					System.out.println(getCn() +"|"+ getOu());
-					return builder.toString();
-				}
-				else {
-					//Shouldn't happen
-					return "Fail" + dn;
-				}
-			}*/
 			HashSet<Group> c = getShouldHasMember();
 			HashSet<Group> d = getMember();
 			if(c.size() != d.size()) {
