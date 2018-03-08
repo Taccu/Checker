@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-all-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-asn1-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-asn1-ber-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-i18n-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-client-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-codec-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-extras-aci-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-extras-codec-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-extras-codec-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-model-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-schema-converter-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-ldap-schema-data-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/api-util-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/mina-core-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/org.apache.servicemix.bundles.antlr-2.7.7_5.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/org.apache.servicemix.bundles.dom4j-1.6.1_5.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/org.apache.servicemix.bundles.xpp3-1.1.4c_7.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/apache-ldap-api-1.0.0-bin/lib/xml-apis-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Daten/Libaries/commons-csv-1.5-bin/commons-csv-1.5/commons-csv-1.5.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
